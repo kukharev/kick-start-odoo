@@ -33,3 +33,8 @@ We are waiting for the download of docker images and go to our domain. Create a 
 Attention! after creating the database, we deny access to the database manager in the config/odoo.conf file, set the value:
 
     list_db = False
+
+
+links:
+
+ - https://github.com/nginx-proxy/nginx-proxy
